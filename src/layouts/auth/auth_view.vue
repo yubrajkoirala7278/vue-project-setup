@@ -49,7 +49,7 @@ function railDrawer(rail) {
     <auth-sidebar></auth-sidebar>
   </v-navigation-drawer>
   <v-main>
-    <v-container>
+    <v-container fluid>
       <router-view />
       <status-message></status-message>
     </v-container>

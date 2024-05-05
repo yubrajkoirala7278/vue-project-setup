@@ -1,5 +1,4 @@
 <script setup>
-import { ref } from "vue";
 import { displayMessage } from "@/utils";
 import DefaultView from "./auth_view.vue";
 </script>
